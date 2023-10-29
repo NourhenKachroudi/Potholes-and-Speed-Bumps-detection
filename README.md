@@ -15,8 +15,8 @@ Potholes and speed bumps on roads can be a major concern for drivers and road ma
 
 ## Repository Contents
 
-This repository includes code and resources related to the YOLOv5 model and Selenium web scraping scripts, which were essential for balancing the existing dataset. However, the datasets and the application code are not provided.
+This repository doesn't include code and resources. If you need any information or have questions, please feel free to contact me.
 
 ## Contact
 
-If you have any questions or need further information about this project, please feel free to contact me : nourhen.kachroudi@supcom.tn
+nourhen.kachroudi@supcom.tn
